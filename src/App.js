@@ -188,7 +188,7 @@ function App() {
             />
           ))
         ) : (
-          <Placeholder src="/react-movie-app/movie-icon.svg" />
+          <p>Please search your favorite movie</p>
         )}
       </MovieListContainer>
     </Container>
